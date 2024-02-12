@@ -1,3 +1,14 @@
+## Desafio Sinerji
+
+Desafio Backend da empresa Sinerji
+
+## Tecnologias utilizadas
+
+![JAVA](https://img.shields.io/badge/Java_17-green.svg)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green.svg)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-purple.svg)
+![PGSQL](https://img.shields.io/badge/PGSQL-blue.svg)
+![REST API](https://img.shields.io/badge/REST_API-green.svg)
 
 ## Documentação da API
 
